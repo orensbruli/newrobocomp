@@ -1,7 +1,0 @@
-/home/robocomp/robocomp/Interfaces/Vision.ice
-vision
-localhost
-tcp
-10000
-500
-pyramid.py

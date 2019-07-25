@@ -1,8 +1,0 @@
-/home/robocomp/robocomp/Interfaces/Kinect.ice
-kinect
-localhost
-tcp
-10096
-33
-kinect.py
-

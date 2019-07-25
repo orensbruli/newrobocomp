@@ -1,7 +1,0 @@
-Interfaces/RGBDBus.ice
-rgbdbus
-localhost
-tcp
-10229
-33
-depthBus.py

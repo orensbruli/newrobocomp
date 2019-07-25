@@ -1,8 +1,0 @@
-/home/robocomp/robocomp/Interfaces/JointMotor.ice
-jointmotor
-localhost
-tcp
-20000
-30
-loki.py
-
